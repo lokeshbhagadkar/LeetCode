@@ -11,8 +11,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
