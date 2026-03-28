@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
