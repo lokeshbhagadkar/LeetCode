@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/bhaglokesh/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
