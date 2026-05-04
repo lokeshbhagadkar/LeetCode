@@ -1,6 +1,7 @@
 class Solution {
 public:
     int reverse(int x) {
+        //reversing a num
         int ans=0, rem=0;
         bool isNeg = false;
         if(x <=INT_MIN){
