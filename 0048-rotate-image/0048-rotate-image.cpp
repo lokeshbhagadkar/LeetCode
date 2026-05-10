@@ -14,6 +14,7 @@ public:
         for(int i=0;i<n;i++){
             //hr row ko reverse karna h
             reverse(matrix[i].begin(), matrix[i].end());
+            //reverse ka code khud se dekh lo-> manual function 
         }
 
 
