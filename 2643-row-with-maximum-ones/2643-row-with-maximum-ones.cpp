@@ -8,6 +8,7 @@ public:
         int oneCount = INT_MIN;
         //rowNo -> will store index of max no. of 1's wali row;
         int rowNo = -101; //i can store -1 too
+        //--> kisi bhi random no se initialize krr diya tum nahi karna chahte mat karo simple -- try to do dry run it
 
         for(int i=0;i<n;i++){
             //hrr row start hone se pahle initialize to 0
