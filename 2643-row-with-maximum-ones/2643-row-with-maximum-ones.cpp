@@ -25,6 +25,8 @@ public:
             }
 
         }
+        //check yaha pe hamse kaha gaya thaa ki vector return karo so
+        //upar hmne vector declare kiya and yaha pe return kiya !
         ans.push_back(rowNo);
         ans.push_back(oneCount);
         return ans;
