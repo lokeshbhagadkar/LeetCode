@@ -8,8 +8,8 @@ public:
             sum = sum + nums[i];
         }
         
-        //aur yaha pe total sum me se usse subtract kareneg
         int totalSum = ((n)*(n+1))/2;
+        //aur yaha pe total sum me se usse subtract kareneg
         int ans = totalSum - sum;
         return ans;
     }
