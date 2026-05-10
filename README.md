@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
+| [2643-row-with-maximum-ones](https://github.com/bhaglokesh/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/bhaglokesh/LeetCode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
