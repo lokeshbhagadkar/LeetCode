@@ -6,7 +6,7 @@ public:
 
         for(int index=0;index<n;index++){
             int newIndex = (index + k) %n;
-            //hm new array create krr ke uss me elements ad krr rahe hai
+            //hmm new array create krr ke uss me elements ad krr rahe hai
             ans[newIndex] = nums[index];
         }
 
