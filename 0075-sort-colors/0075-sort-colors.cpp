@@ -1,20 +1,29 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-         int low = 0, mid = 0, high = nums.size()-1;
-        while(mid <= high){
-            if(nums[mid] == 0){
-                swap(nums[low], nums[mid]);
-                low++;
-                mid++;
+        int n= nums.size();
+        int index =0;
+        int left =0;
+        int right = n-1;
+
+        while(index <= right){
+            if(nums[index] == 0){
+                swap(nums[index], nums[left]);
+                left++;
+                index++;
             }
-            else if(nums[mid] == 1){
-                mid++;
+            else if(nums[index] == 2){
+                swap(nums[index], nums[right]);
+                right--;
+                //catch--> no need of index++
+                //index++ 
+                //kyu ki hame nahi pata ye swap krr ke 0 bhi bj=he sakta hai start me
             }
             else{
-                swap(nums[mid], nums[high]);
-                high--;
+                index++;
+                //jab one hoga toh no need to do anything just skip
             }
         }
+        
     }
 };
