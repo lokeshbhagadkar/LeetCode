@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/bhaglokesh/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/bhaglokesh/LeetCode/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhaglokesh/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/bhaglokesh/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhaglokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -58,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhaglokesh/LeetCode/tree/master/0048-rotate-image) |
 | [2643-row-with-maximum-ones](https://github.com/bhaglokesh/LeetCode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
