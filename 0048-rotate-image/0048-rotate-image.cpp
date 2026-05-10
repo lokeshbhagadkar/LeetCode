@@ -1,14 +1,16 @@
 class Solution {
 public:
+    //TC -. O(n^2)
     void rotate(vector<vector<int>>& matrix) {
         int n = matrix.size();
-        //transpose
+        //transpose step :1 
         for(int i=0;i<n;i++){
             for(int j=i;j<matrix[i].size();j++){
                 swap(matrix[i][j], matrix[j][i]);
             }
         }
 
+            //reverse step 2;
         //reverse --> 2d MATRIX ki sarri row ko
         //kitni row h --> 0 > (n-1)
         for(int i=0;i<n;i++){
@@ -18,7 +20,7 @@ public:
         }
 
 
-        //reverse
+    
         
     }
 };
