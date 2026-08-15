@@ -9,6 +9,7 @@ public:
         if(x<0){
             return false;
         }
+        //this is usual logic to reverse the number
         while(x > 0){
             int digit = x%10;
             revNum = (revNum*10)+ digit;
