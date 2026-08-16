@@ -4,7 +4,17 @@ public:
         int start = 0;
         int end = s.size() - 1;
 
-        //Note for GitHub
+        // Note for GitHub
+        //         1. isalnum()- is a c++ function that check whether a
+        //         character is alphanumerical
+        //         2. Alphanumerical = letter + number
+        //         isalnum('A')   // true
+        // isalnum('z')   // true
+        // isalnum('5')   // true
+
+        // isalnum(' ')   // false
+        // isalnum(',')   // false
+        // isalnum('!')   // false
         while (start <= end) {
             if (!isalnum(s[start])) {
                 start++;
