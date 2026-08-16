@@ -3,6 +3,8 @@ public:
     bool isPalindrome(string s) {
         int start = 0;
         int end = s.size() - 1;
+
+        //Note for GitHub
         while (start <= end) {
             if (!isalnum(s[start])) {
                 start++;
