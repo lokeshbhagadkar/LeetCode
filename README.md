@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhaglokesh/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bhaglokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhaglokesh/LeetCode/tree/master/0048-rotate-image) |
 | [2643-row-with-maximum-ones](https://github.com/bhaglokesh/LeetCode/tree/master/2643-row-with-maximum-ones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
