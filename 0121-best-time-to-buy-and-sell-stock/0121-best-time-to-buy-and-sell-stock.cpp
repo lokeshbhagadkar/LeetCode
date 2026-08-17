@@ -3,7 +3,7 @@ public:
     int maxProfit(vector<int>& prices) {
         //this code is done on 17 aug
         //also done to maintain streat /
-        //make sure 
+        //make sure you understand the code and solve it again properly
         int minPrice = prices[0];
         int maxProfit =0;
 
