@@ -4,7 +4,8 @@ public:
         int n = nums.size();
         //this is note fpr Leetcode
         //date 18/08/26 this is again day 2 of maintaining streak 
-        
+        //i just copy and paste it
+
 
         int i = n-2;
         while(i>=0 && nums[i] >=nums[i+1]){
