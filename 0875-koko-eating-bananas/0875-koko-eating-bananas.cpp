@@ -4,7 +4,7 @@ public:
         //again note fpr Github
         //this is day 3 of maintaining streak
         //Today is date 19 aug 2026
-        //Resolve this question properly
+        //Resolve this question properly & understand it wisely
 
         int low =1;
         int high = *max_element(piles.begin(), piles.end());
