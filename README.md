@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2643-row-with-maximum-ones](https://github.com/bhaglokesh/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
