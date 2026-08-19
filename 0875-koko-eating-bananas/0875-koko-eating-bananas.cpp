@@ -2,6 +2,7 @@ class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         //again note fpr Github
+        //this is day 3 of 
         int low =1;
         int high = *max_element(piles.begin(), piles.end());
         while(low<=high){
