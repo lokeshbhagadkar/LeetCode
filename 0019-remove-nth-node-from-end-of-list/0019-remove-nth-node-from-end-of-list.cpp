@@ -13,7 +13,8 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         //This not is for github
         //Day 4 of maintaing strak
-        //
+        //Date 20 aug 26
+        //make sure ti understand code properly and 
         ListNode *fast = head, *slow = head;
         for (int i = 0; i < n; i++) fast = fast->next;
         if (!fast) return head->next;
