@@ -2,6 +2,8 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         //This is note for Github
+        //Day 4 of maintaining streak
+        //make sure you understand the code and resolve ot
          int n = nums.size();
         if(n == 0){
             return 0;
