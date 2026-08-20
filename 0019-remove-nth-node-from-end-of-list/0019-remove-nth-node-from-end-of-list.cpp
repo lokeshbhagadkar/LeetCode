@@ -12,6 +12,7 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         //This not is for github
+        //Day 4 of
         ListNode *fast = head, *slow = head;
         for (int i = 0; i < n; i++) fast = fast->next;
         if (!fast) return head->next;
