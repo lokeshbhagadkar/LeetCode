@@ -4,7 +4,8 @@ public:
         //This is note for Github
         //Day 4 of maintaining streak
         //make sure you understand the code and resolve ot
-        //Properly
+        //Properly make sure to dry run 
+        //Today Date 20 Aug 26
          int n = nums.size();
         if(n == 0){
             return 0;
