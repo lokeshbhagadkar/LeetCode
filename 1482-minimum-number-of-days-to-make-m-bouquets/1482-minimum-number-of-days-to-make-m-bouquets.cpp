@@ -2,6 +2,7 @@ class Solution {
 public:
 
     bool canMake(vector<int>& bloomDay, int m, int k, int day) {
+        //This note is for github
         int bouquets = 0;
         int flowers = 0;
 
