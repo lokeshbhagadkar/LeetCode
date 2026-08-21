@@ -5,6 +5,7 @@ public:
         //This note is for github
         //This question is directly solved
         //This is day 4 of maintaining streak
+        //Today is date 21 aug 26
         int bouquets = 0;
         int flowers = 0;
 
