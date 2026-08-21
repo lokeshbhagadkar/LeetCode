@@ -4,6 +4,7 @@ public:
     bool canMake(vector<int>& bloomDay, int m, int k, int day) {
         //This note is for github
         //This question is directly solved
+        //This is day 4 of maintaining streak
         int bouquets = 0;
         int flowers = 0;
 
