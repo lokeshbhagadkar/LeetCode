@@ -4,7 +4,8 @@ public:
         string ans;
         int depth =0;
         //this note is for leetcode
-        //this is day 5 of 
+        //this is day 5 of maintaining steeak
+        
         
         for(char c : s){
             if(c == '('){
