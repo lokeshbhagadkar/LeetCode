@@ -6,6 +6,8 @@ public:
         
         for(char c : s){
             if(c == '('){
+                //add ( only iif it is not the outermost)
+
                 if(depth > 0)
                  ans +=c;
                  depth++;
