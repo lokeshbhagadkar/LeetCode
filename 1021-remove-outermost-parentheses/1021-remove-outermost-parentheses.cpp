@@ -13,6 +13,8 @@ public:
                  depth++;
             }
             else{
+                                //add ) only iif it is not the outermost)
+
                 depth--;
 
                 if(depth > 0){
