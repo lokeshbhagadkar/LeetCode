@@ -3,6 +3,7 @@ public:
     string removeOuterParentheses(string s) {
         string ans;
         int depth =0;
+        //this note is for leetcode
         
         for(char c : s){
             if(c == '('){
