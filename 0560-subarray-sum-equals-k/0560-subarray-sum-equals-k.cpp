@@ -11,7 +11,7 @@ public:
 
         for(int x: nums){
             prefixSum +=x;
-            //need an earlier
+            //need an earlier prefix sum = prefixsum -k
             if(mp.find(prefixSum -k)!= mp.end()){
                 count +=mp[prefixSum -k];
             }
