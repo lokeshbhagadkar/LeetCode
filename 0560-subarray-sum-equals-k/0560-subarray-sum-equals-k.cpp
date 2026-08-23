@@ -4,6 +4,7 @@ public:
         unordered_map<int,int> mp;
         //Note for guthub
         //Today is day 5 of maintaining streak
+        //today is date 23 aug 26
 
         //prefix sunm 0 has occurs once
         mp[0]=1;
