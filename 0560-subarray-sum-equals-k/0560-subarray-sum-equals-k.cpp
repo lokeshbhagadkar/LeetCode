@@ -8,7 +8,7 @@ public:
         //understand and dry run the program properly
 
         //prefix sunm 0 has occurs once
-        //Note :dry run with
+        //Note :dry run with 2-3 examples
         mp[0]=1;
 
         int prefixSum =0;
