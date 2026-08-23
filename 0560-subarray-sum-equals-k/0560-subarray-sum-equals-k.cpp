@@ -5,6 +5,7 @@ public:
         //Note for guthub
         //Today is day 5 of maintaining streak
         //today is date 23 aug 26
+        //understand and dry run the program properly
 
         //prefix sunm 0 has occurs once
         mp[0]=1;
