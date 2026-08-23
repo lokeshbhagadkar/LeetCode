@@ -15,6 +15,7 @@ public:
             if(mp.find(prefixSum -k)!= mp.end()){
                 count +=mp[prefixSum -k];
             }
+            //store
             mp[prefixSum]++;
         }
         return count;
