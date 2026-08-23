@@ -3,6 +3,7 @@ public:
     int subarraySum(vector<int>& nums, int k) {
         unordered_map<int,int> mp;
         //Note for guthub
+        //Today is day 5 of maintaining streak
 
         //prefix sunm 0 has occurs once
         mp[0]=1;
