@@ -3,7 +3,7 @@ public:
     int splitArray(vector<int>& nums, int k) {
         long long low = 0, high = 0;
         //This note is for github
-        
+        //This is day 6 of maintaining streak
 
         // Maximum possible answer = total sum
         for (int x : nums) {
