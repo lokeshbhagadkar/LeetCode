@@ -3,6 +3,7 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 
         //This kind of day 6 of maintaining streak
+        //This note is for github
         
         // Always binary search on the smaller array
         if (nums1.size() > nums2.size()) {
