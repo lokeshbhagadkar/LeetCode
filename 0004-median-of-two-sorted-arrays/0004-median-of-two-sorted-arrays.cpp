@@ -5,6 +5,7 @@ public:
         //This kind of day 6 of maintaining streak
         //This note is for github
         //Today date is 23rd aug 26
+        //Your target is to understand and 
         
         // Always binary search on the smaller array
         if (nums1.size() > nums2.size()) {
