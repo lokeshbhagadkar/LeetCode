@@ -6,6 +6,7 @@ public:
         //This is day 6 of maintaining streak
         // i solve this program by taking gpt help
         // make sure to understand the program and dry run properly
+        //This time i try leetcode hard program
 
         // Maximum possible answer = total sum
         for (int x : nums) {
