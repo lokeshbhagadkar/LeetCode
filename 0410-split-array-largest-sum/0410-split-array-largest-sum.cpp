@@ -31,13 +31,11 @@ public:
                 }
             }
 
-            // Need more than k subarrays
             // => mid is too small
             if (parts > k) {
                 low = mid + 1;
             }
             else {
-                // mid is possible, try smaller
                 high = mid;
             }
         }
