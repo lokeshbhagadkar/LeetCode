@@ -7,6 +7,7 @@ public:
         // i solve this program by taking gpt help
         // make sure to understand the program and dry run properly
         //This time i try leetcode hard program
+        //Today date is 24 aug 26
 
         // Maximum possible answer = total sum
         for (int x : nums) {
