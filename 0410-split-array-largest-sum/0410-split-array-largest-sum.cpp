@@ -2,6 +2,8 @@ class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
         long long low = 0, high = 0;
+        //This note is for github
+        
 
         // Maximum possible answer = total sum
         for (int x : nums) {
