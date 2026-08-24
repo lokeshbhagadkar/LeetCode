@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhaglokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/lokeshbhagadkar/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/lokeshbhagadkar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
