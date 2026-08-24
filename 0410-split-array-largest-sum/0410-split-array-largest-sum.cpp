@@ -5,7 +5,7 @@ public:
         //This note is for github
         //This is day 6 of maintaining streak
         // i solve this program by taking gpt help
-        // make sure to understand the program
+        // make sure to understand the program and dry run properly
 
         // Maximum possible answer = total sum
         for (int x : nums) {
