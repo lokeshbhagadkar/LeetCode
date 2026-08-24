@@ -6,6 +6,8 @@ public:
         //This note is for github
         //Today date is 23rd aug 26
         //Your target is to understand and dry run the program correctly
+        //understand all edge cases
+        //this is 
         
         // Always binary search on the smaller array
         if (nums1.size() > nums2.size()) {
