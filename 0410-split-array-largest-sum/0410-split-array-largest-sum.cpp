@@ -4,6 +4,8 @@ public:
         long long low = 0, high = 0;
         //This note is for github
         //This is day 6 of maintaining streak
+        // i solve this program by taking gpt help
+        // make sure to understand the program
 
         // Maximum possible answer = total sum
         for (int x : nums) {
