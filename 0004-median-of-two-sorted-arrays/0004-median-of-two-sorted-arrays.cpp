@@ -7,7 +7,7 @@ public:
         //Today date is 23rd aug 26
         //Your target is to understand and dry run the program correctly
         //understand all edge cases
-        //this is 
+        //this is last day of mugging
         
         // Always binary search on the smaller array
         if (nums1.size() > nums2.size()) {
