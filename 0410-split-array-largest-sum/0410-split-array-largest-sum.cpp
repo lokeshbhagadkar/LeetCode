@@ -8,6 +8,7 @@ public:
         // make sure to understand the program and dry run properly
         //This time i try leetcode hard program
         //Today date is 24 aug 26
+        //Dry run and understand it properly
 
         // Maximum possible answer = total sum
         for (int x : nums) {
