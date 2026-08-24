@@ -3,7 +3,6 @@ public:
     int splitArray(vector<int>& nums, int k) {
         long long low = 0, high = 0;
 
-        // Minimum possible answer = largest element
         // Maximum possible answer = total sum
         for (int x : nums) {
             low = max(low, (long long)x);
