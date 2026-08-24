@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bhaglokesh/LeetCode/tree/master/0048-rotate-image) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
