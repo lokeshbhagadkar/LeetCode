@@ -31,7 +31,6 @@ public:
                 }
             }
 
-            // => mid is too small
             if (parts > k) {
                 low = mid + 1;
             }
