@@ -9,6 +9,7 @@ public:
         //make sure to understand & solve question properly
         //just make sure to dry run code properly
         //yep review but i forgot to understand and revise it
+        //ok fine today date is 23rd aug 26
         int bouquets = 0;
         int flowers = 0;
 
