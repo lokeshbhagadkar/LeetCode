@@ -6,6 +6,7 @@ public:
         //Just push the code
         //Analyze it and dry run properly
         //Note for tomorrow
+        //-->
         int x = start ^ goal;
         int count = 0;
 
