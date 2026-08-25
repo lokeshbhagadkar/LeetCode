@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minBitFlips(int start, int goal) {
+        //This note is for github
         int x = start ^ goal;
         int count = 0;
 
