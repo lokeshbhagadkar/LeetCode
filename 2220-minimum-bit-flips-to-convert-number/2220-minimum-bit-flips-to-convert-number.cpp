@@ -4,6 +4,8 @@ public:
         //This note is for github
         //Today is day 7 of maintaining streak 
         //Just push the code
+        //Analyze it and dry run properly
+        
         int x = start ^ goal;
         int count = 0;
 
