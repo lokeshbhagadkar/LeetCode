@@ -5,7 +5,7 @@ public:
         //Today is day 7 of maintaining streak 
         //Just push the code
         //Analyze it and dry run properly
-        
+        //Note 
         int x = start ^ goal;
         int count = 0;
 
