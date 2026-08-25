@@ -7,6 +7,7 @@ public:
         //Analyze it and dry run properly
         //Note for tomorrow
         //-->make sure to understand and then solve
+        //Today date is 25 aug 26
         int x = start ^ goal;
         int count = 0;
 
