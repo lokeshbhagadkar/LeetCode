@@ -2,6 +2,8 @@ class Solution {
 public:
     int minBitFlips(int start, int goal) {
         //This note is for github
+        //Today is day 7 of maintaining streak 
+        
         int x = start ^ goal;
         int count = 0;
 
