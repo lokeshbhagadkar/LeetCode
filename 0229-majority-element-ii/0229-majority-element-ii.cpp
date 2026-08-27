@@ -4,6 +4,7 @@ public:
         int candidate1 = 0, candidate2 = 1;
         int count1 = 0, count2 = 0;
         //This note is for Github
+        //this is day 8 of maintaining strak
 
         // Find two possible candidates
         for (int num : nums) {
