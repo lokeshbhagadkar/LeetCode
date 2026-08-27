@@ -5,6 +5,7 @@ public:
         int count1 = 0, count2 = 0;
         //This note is for Github
         //this is day 8 of maintaining strak
+        //today date is 27 aug 26
 
         // Find two possible candidates
         for (int num : nums) {
