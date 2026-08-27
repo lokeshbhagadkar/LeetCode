@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/bhaglokesh/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bhaglokesh/LeetCode_GFG/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhaglokesh/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/lokeshbhagadkar/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
