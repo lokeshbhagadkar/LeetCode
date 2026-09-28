@@ -5,6 +5,7 @@ public:
         int right = nums.size()-1;
 
         //simple and easy code for binary search
+        //here we implemented a overflow condition
         while(left <= right){
             int mid = left +(right -left)/2;
 
